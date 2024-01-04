@@ -1,0 +1,7 @@
+termux-setup-storage && apt update && apt upgrade && pkg install php && pkg install python && pkg install git && pkg install wget && pip install -- upgrade pip && pipinstall request && pip install pycurl
+termux-setup-storage && apt update && apt upgrade && pkg install php &&
+pkg install python && pkg install git && pkg install wget && pip in
+apt update
+apt install php -y 
+termux-setup-storage
+pkg install php
